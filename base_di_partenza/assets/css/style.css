@@ -595,7 +595,8 @@ address {
         margin-bottom: 1em;
         padding: 1em;
         width: 30%;
-        float: right;
+        height: 120px;
+        display: inline-block;
         
         
     }
